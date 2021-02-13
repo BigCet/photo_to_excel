@@ -42,7 +42,6 @@ def get_photo_data(file_path):
 
     return image_data
 
-
 if __name__ == '__main__':
     image_data = get_photo_data(r"C:\Users\Hp\Desktop\Unoka\BZ07_Toth_Kornel_Ivan_2020-10-17_01.JPG")
     print(image_data)
